@@ -1,7 +1,7 @@
 
 ## 简历
 
-* http://r.codingce.com.cn
+* https://r.codingce.com.cn
 
 
 
