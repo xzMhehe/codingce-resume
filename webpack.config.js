@@ -20,7 +20,7 @@ module.exports = {
         // new webpack.HotModuleReplacementPlugin(),
         new HtmlWebpackPlugin({
             template: './src/index.html',
-            filename: 'index.html',
+            filename: 'public/index.html',
             inject: 'head',
             minify: {
                 collapseWhitespace: true,

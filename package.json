@@ -13,7 +13,7 @@
   },
   "author": "Ma Xinze",
   "license": "cc-by-sa-4.0",
-  "homepage": "http://r.codingce.com.cn",
+  "homepage": "https://r.codingce.com.cn",
   "devDependencies": {
     "autoprefixer": "^8.2.0",
     "css-loader": "^0.28.11",
