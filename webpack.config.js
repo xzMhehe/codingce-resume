@@ -10,7 +10,7 @@ module.exports = {
         app: ['./src/entry.js']
     },
     output: {
-        filename: 'static/[name].js?[hash:6]',
+        filename: 'public/static/[name].js?[hash:6]',
         path: path.resolve(__dirname)
     },
     devServer: {
@@ -51,7 +51,7 @@ module.exports = {
                         loader: 'url-loader',
                         options: {
                             limit: 8192,
-                            name: 'static/[name].[ext]?[hash:6]'
+                            name: 'public/static/[name].[ext]?[hash:6]'
                         }
                     },
                     { // 压缩图片：https://github.com/tcoopman/image-webpack-loader
@@ -68,7 +68,7 @@ module.exports = {
                     loader: 'url-loader',
                     options: {
                         limit: 8192,
-                        name: 'static/[name].[ext]?[hash:6]'
+                        name: 'public/static/[name].[ext]?[hash:6]'
                     }
                 }
             }
