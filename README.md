@@ -22,6 +22,15 @@ https://r.codingce.com.cn
 ## 简历参考借鉴来源
 
 - [简历 | 闵聪 - Cong Min](http://resume.congm.in/)
-> Fork 或借鉴请注明出处： [@Cong Min](https://congm.in)
+<!-- > Fork 或借鉴请注明出处： [@Cong Min](https://congm.in) -->
+
+
 
 <!-- ![JPG 版简历](./resume.jpg) -->
+
+## 欢迎关注
+
+更多精彩关注**后端码匠**公众号,更多资源等你来发掘       
+期待与你一起进步😋                     
+
+![](https://cdn.jsdelivr.net/gh/xzMhehe/StaticFile_CDN/static/img/202108311552149.png)
